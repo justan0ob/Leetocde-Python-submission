@@ -1,1 +1,21 @@
-# Leetocde-Python-submission
+<h1>Leetocde Python submission Links</h1> 
+Link to my Leetcode Profile:<a href="https://leetcode.com/grid_saqib/">grid_saqib</a><br><br>
+1: <a href="https://leetcode.com/problems/two-sum/submissions/1155384192">Two Sum</a><br>
+2: <a href="https://leetcode.com/problems/contains-duplicate/submissions/1155385985">Contains Duplicate</a><br>
+3: <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1155388339">Best Time to Buy and Sell Stock</a><br>
+4: <a href="https://leetcode.com/problems/valid-anagram/submissions/1155399190">Valid Anagrams</a><br>
+5: <a href="https://leetcode.com/problems/valid-parentheses/submissions/1156198862">Valid Parenthesis</a><br>
+6: <a href="https://leetcode.com/problems/product-of-array-except-self/submissions/1156215515">Product of Array except self</a><br>
+7: <a href="https://leetcode.com/problems/maximum-subarray/submissions/1156234282">Maximum Subarray</a><br>
+8: <a href="https://leetcode.com/problems/3sum/submissions/1156345162">3Sum</a><br>
+9: <a href="https://leetcode.com/problems/merge-intervals/submissions/1156381800">Merge Intervals</a><br>
+10: <a href="https://leetcode.com/problems/group-anagrams/submissions/1156424549">Group Anagrams</a><br>
+11: <a href="https://leetcode.com/problems/reverse-linked-list/submissions/1156427399">Reverse Linked List</a><br>
+12: <a href="https://leetcode.com/problems/linked-list-cycle/submissions/1156431775">Linked List Cycle</a><br>
+13: <a href="https://leetcode.com/problems/container-with-most-water/submissions/1156438196">Container with most water</a><br>
+14: <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1159789182">Find Minimum in rotated sorted array</a><br>
+15: <a href="https://leetcode.com/problems/longest-repeating-character-replacement/submissions/1159794012">Longest Repeating Character Replacement</a><br>
+16: <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1159801079">Longest Substring Without Repeating Characters</a><br>
+17: <a href="https://leetcode.com/problems/number-of-islands/submissions/1159807216">Number of Islands</a><br>
+18: <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1159815494">Remove Nth Node from the End of the List</a><br>
+19: <a href="https://leetcode.com/problems/palindromic-substrings/submissions/1159821291">Palindromic Substring</a><br>
